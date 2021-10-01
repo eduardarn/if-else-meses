@@ -1,0 +1,15 @@
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/ifelsemeses/bin/Debug/net5.0/ifelsemeses.deps.json
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/ifelsemeses/bin/Debug/net5.0/ifelsemeses.runtimeconfig.json
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/ifelsemeses/bin/Debug/net5.0/ifelsemeses.runtimeconfig.dev.json
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/ifelsemeses/bin/Debug/net5.0/ifelsemeses.dll
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/ifelsemeses/bin/Debug/net5.0/ref/ifelsemeses.dll
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/ifelsemeses/bin/Debug/net5.0/ifelsemeses.pdb
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/ifelsemeses/obj/Debug/net5.0/ifelsemeses.csproj.AssemblyReference.cache
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/ifelsemeses/obj/Debug/net5.0/ifelsemeses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/ifelsemeses/obj/Debug/net5.0/ifelsemeses.AssemblyInfoInputs.cache
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/ifelsemeses/obj/Debug/net5.0/ifelsemeses.AssemblyInfo.cs
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/ifelsemeses/obj/Debug/net5.0/ifelsemeses.csproj.CoreCompileInputs.cache
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/ifelsemeses/obj/Debug/net5.0/ifelsemeses.dll
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/ifelsemeses/obj/Debug/net5.0/ref/ifelsemeses.dll
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/ifelsemeses/obj/Debug/net5.0/ifelsemeses.pdb
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/ifelsemeses/obj/Debug/net5.0/ifelsemeses.genruntimeconfig.cache

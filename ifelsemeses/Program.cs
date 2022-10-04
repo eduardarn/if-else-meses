@@ -9,6 +9,7 @@ namespace ifelsemeses
             int mes = 0;
 
             Console.WriteLine("Por favor digite o valor corresponde ao mês desejado:");
+            Console.WriteLine("");
             mes = Convert.ToInt32(Console.ReadLine());
 
             if (mes == 1)
